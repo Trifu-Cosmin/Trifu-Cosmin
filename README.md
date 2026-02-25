@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Computer Science Student @ West University of Timișoara (2nd Year).<br>
+🎓 Computer Science Student @ West University of Timișoara (3rd Year).<br>
 💻 Passionate about Cybersecurity & Problem-Solving.<br>
 🚀 Always eager to learn, build, and explore new technologies.<br>
 🛰️ I'm currently working on improving my skills in Cybersecurity.<br>
