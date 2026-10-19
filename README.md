@@ -1,5 +1,6 @@
 # 💫 About Me:
-🎓 Computer Science Student @ West University of Timișoara (3rd Year).<br>
+🎓 Cloud Computing and IoT master's Student @ Polytechnique University of Timișoara .<br>
+🎓 Computer Science Graduate @ West University of Timișoara .<br>
 💻 Passionate about Cybersecurity & Problem-Solving.<br>
 🚀 Always eager to learn, build, and explore new technologies.<br>
 🛰️ I'm currently working on improving my skills in Cybersecurity.<br>
