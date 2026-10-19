@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Cloud Computing and IoT master's Student @ Polytechnique University of Timișoara .<br>
+🎓 Cloud Computing and IoT Master's Student @ Polytechnique University of Timișoara .<br>
 🎓 Computer Science Graduate @ West University of Timișoara .<br>
 💻 Passionate about Cybersecurity & Problem-Solving.<br>
 🚀 Always eager to learn, build, and explore new technologies.<br>
